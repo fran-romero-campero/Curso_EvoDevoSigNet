@@ -1,0 +1,1 @@
+(((((((((arabidopsis_thaliana:11,solanum_lycopersicum:7)N9:3,oryza_sativa:8)N8:4,ceratopteris_richardii:4)N7:1,selaginella_moellendorffii:3)N6:1,marchantia_polymorpha:5)N5:1,mesotaenium_endlicherianum:4)N4:2,klebsormidium_nitens:1)N2:2,(chlamydomonas_reinhardtii:12,ostreococcus_tauri:6)N3:1)N1:2,porphyra_umbilicalis:3)N0;

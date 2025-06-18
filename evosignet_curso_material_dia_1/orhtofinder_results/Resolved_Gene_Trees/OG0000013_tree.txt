@@ -1,0 +1,1 @@
+(((porphyra_umbilicalis_Pum0108s0024:0.388687,porphyra_umbilicalis_Pum0108s0029:0.198145)n2:0.699701,(porphyra_umbilicalis_Pum0108s0025:3.40688e-06,porphyra_umbilicalis_Pum0095s0006:1.09202)n3:0.037575)n1:0.290299,(selaginella_moellendorffii_Smoe_408692:0.487556,marchantia_polymorpha_Mp1g25720:0.359222)n4:0.290299)n0;
