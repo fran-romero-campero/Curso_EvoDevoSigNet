@@ -1,0 +1,12 @@
+	arabidopsis_thaliana	ceratopteris_richardii	chlamydomonas_reinhardtii	klebsormidium_nitens	marchantia_polymorpha	mesotaenium_endlicherianum	oryza_sativa	ostreococcus_tauri	porphyra_umbilicalis	selaginella_moellendorffii	solanum_lycopersicum
+arabidopsis_thaliana	0.0	0.0	2.0	2.0	1.0	1.0	13.0	1.0	0.0	3.0	18.0
+ceratopteris_richardii	0.0	0.0	1.0	2.0	4.0	2.0	0.0	0.0	0.0	4.0	0.0
+chlamydomonas_reinhardtii	2.0	1.0	0.0	7.0	5.0	7.0	3.0	5.0	0.0	3.0	3.0
+klebsormidium_nitens	2.0	2.0	7.0	0.0	6.0	6.0	3.0	4.0	1.0	5.0	3.0
+marchantia_polymorpha	1.0	4.0	5.0	6.0	0.0	8.0	1.0	4.0	1.0	9.0	2.0
+mesotaenium_endlicherianum	1.0	2.0	7.0	6.0	8.0	0.0	1.0	4.0	0.0	9.0	2.0
+oryza_sativa	13.0	0.0	3.0	3.0	1.0	1.0	0.0	1.0	0.0	4.0	13.0
+ostreococcus_tauri	1.0	0.0	5.0	4.0	4.0	4.0	1.0	0.0	0.0	1.0	2.0
+porphyra_umbilicalis	0.0	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	1.0
+selaginella_moellendorffii	3.0	4.0	3.0	5.0	9.0	9.0	4.0	1.0	0.0	0.0	3.0
+solanum_lycopersicum	18.0	0.0	3.0	3.0	2.0	2.0	13.0	2.0	1.0	3.0	0.0
