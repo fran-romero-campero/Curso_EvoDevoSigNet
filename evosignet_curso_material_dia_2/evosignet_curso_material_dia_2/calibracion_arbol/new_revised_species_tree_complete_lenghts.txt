@@ -1,0 +1,1 @@
+(((((((((arabidopsis_thaliana:1,solanum_lycopersicum:1):1,oryza_sativa:1):1,ceratopteris_richardii:1):1,selaginella_moellendorffii:1):1,marchantia_polymorpha:1):1,mesotaenium_endlicherianum:1):1,klebsormidium_nitens:1):1,(chlamydomonas_reinhardtii:1,ostreococcus_tauri:1):1):1,porphyra_umbilicalis:1);
