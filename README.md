@@ -1,0 +1,1 @@
+"Curso de Análisis Evolutivo de Genomas en el Linaje Verde, casos prácticos con Orthofinder y otras herramientas complementarias" organizado por la Red de Investigación Española "Evolution of regulatory mechanisms in development and plant signaling" (EvoDevoSigNet) https://evodevosignet.webs.upv.es/
